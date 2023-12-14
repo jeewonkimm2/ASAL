@@ -1,0 +1,63 @@
+./DATA/carpet/train/good/good_carpet_171.png
+./DATA/carpet/train/good/good_carpet_145.png
+./DATA/carpet/train/good/good_carpet_262.png
+./DATA/carpet/train/good/good_carpet_109.png
+./DATA/carpet/train/good/good_carpet_089.png
+./DATA/carpet/train/good/good_carpet_028.png
+./DATA/carpet/train/good/good_carpet_212.png
+./DATA/carpet/train/good/good_carpet_216.png
+./DATA/carpet/train/good/good_carpet_117.png
+./DATA/carpet/train/good/good_carpet_179.png
+./DATA/carpet/train/good/good_carpet_156.png
+./DATA/carpet/train/good/good_carpet (9).png
+./DATA/carpet/train/good/good_carpet_041.png
+./DATA/carpet/train/good/good_carpet (14).png
+./DATA/carpet/train/good/good_carpet_078.png
+./DATA/carpet/train/good/good_carpet_194.png
+./DATA/carpet/train/good/good_carpet (24).png
+./DATA/carpet/train/good/good_carpet_180.png
+./DATA/carpet/train/good/good_carpet_009.png
+./DATA/carpet/train/good/good_carpet_182.png
+./DATA/carpet/train/good/good_carpet_116.png
+./DATA/carpet/train/good/good_carpet_139.png
+./DATA/carpet/train/good/good_carpet_211.png
+./DATA/carpet/train/good/good_carpet_039.png
+./DATA/carpet/train/good/good_carpet_249.png
+./DATA/carpet/train/good/good_carpet_172.png
+./DATA/carpet/train/good/good_carpet_005.png
+./DATA/carpet/train/good/good_carpet (3).png
+./DATA/carpet/train/good/good_carpet_152.png
+./DATA/carpet/train/good/good_carpet_007.png
+./DATA/carpet/train/good/good_carpet_036.png
+./DATA/carpet/train/good/good_carpet_181.png
+./DATA/carpet/train/good/good_carpet_148.png
+./DATA/carpet/train/good/good_carpet_033.png
+./DATA/carpet/train/good/good_carpet_058.png
+./DATA/carpet/train/good/good_carpet_261.png
+./DATA/carpet/train/good/good_carpet_031.png
+./DATA/carpet/train/good/good_carpet_147.png
+./DATA/carpet/train/good/good_carpet_242.png
+./DATA/carpet/train/good/good_carpet_113.png
+./DATA/carpet/train/good/good_carpet (28).png
+./DATA/carpet/train/good/good_carpet (23).png
+./DATA/carpet/train/good/good_carpet_162.png
+./DATA/carpet/train/good/good_carpet_080.png
+./DATA/carpet/train/good/good_carpet_264.png
+./DATA/carpet/train/good/good_carpet_018.png
+./DATA/carpet/train/good/good_carpet (8).png
+./DATA/carpet/train/good/good_carpet_135.png
+./DATA/carpet/train/good/good_carpet_037.png
+./DATA/carpet/train/good/good_carpet_266.png
+./DATA/carpet/train/good/good_carpet_168.png
+./DATA/carpet/train/good/good_carpet_095.png
+./DATA/carpet/train/good/good_carpet (21).png
+./DATA/carpet/train/good/good_carpet_016.png
+./DATA/carpet/train/good/good_carpet_190.png
+./DATA/carpet/train/good/good_carpet_253.png
+./DATA/carpet/train/good/good_carpet_206.png
+./DATA/carpet/train/good/good_carpet_040.png
+./DATA/carpet/train/good/good_carpet_021.png
+./DATA/carpet/train/good/good_carpet_054.png
+./DATA/carpet/train/good/good_carpet_219.png
+./DATA/carpet/train/good/good_carpet_025.png
+./DATA/carpet/train/good/good_carpet_100.png

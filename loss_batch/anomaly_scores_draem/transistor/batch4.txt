@@ -1,0 +1,50 @@
+./DATA/transistor/train/good/good_transistor_011.png
+./DATA/transistor/train/good/good_transistor_180.png
+./DATA/transistor/train/good/good_transistor_019.png
+./DATA/transistor/train/good/good_transistor_210.png
+./DATA/transistor/train/good/good_transistor_192.png
+./DATA/transistor/train/good/good_transistor (60).png
+./DATA/transistor/train/good/good_transistor_038.png
+./DATA/transistor/train/good/good_transistor_080.png
+./DATA/transistor/train/good/good_transistor (2).png
+./DATA/transistor/train/good/good_transistor (41).png
+./DATA/transistor/train/good/good_transistor_064.png
+./DATA/transistor/train/good/good_transistor_037.png
+./DATA/transistor/train/good/good_transistor_122.png
+./DATA/transistor/train/good/good_transistor_060.png
+./DATA/transistor/train/good/good_transistor (13).png
+./DATA/transistor/train/good/good_transistor_115.png
+./DATA/transistor/train/good/good_transistor_069.png
+./DATA/transistor/train/good/good_transistor_068.png
+./DATA/transistor/train/good/good_transistor_003.png
+./DATA/transistor/train/good/good_transistor_048.png
+./DATA/transistor/train/good/good_transistor_201.png
+./DATA/transistor/train/good/good_transistor (5).png
+./DATA/transistor/train/good/good_transistor_139.png
+./DATA/transistor/train/good/good_transistor_170.png
+./DATA/transistor/train/good/good_transistor (39).png
+./DATA/transistor/train/good/good_transistor (28).png
+./DATA/transistor/train/good/good_transistor_169.png
+./DATA/transistor/train/good/good_transistor_182.png
+./DATA/transistor/train/good/good_transistor_044.png
+./DATA/transistor/train/good/good_transistor_066.png
+./DATA/transistor/train/good/good_transistor_207.png
+./DATA/transistor/train/good/good_transistor_018.png
+./DATA/transistor/train/good/good_transistor_090.png
+./DATA/transistor/train/good/good_transistor_168.png
+./DATA/transistor/train/good/good_transistor_129.png
+./DATA/transistor/train/good/good_transistor_078.png
+./DATA/transistor/train/good/good_transistor_021.png
+./DATA/transistor/train/good/good_transistor_079.png
+./DATA/transistor/train/good/good_transistor_189.png
+./DATA/transistor/train/good/good_transistor_034.png
+./DATA/transistor/train/good/good_transistor_085.png
+./DATA/transistor/train/good/good_transistor_172.png
+./DATA/transistor/train/good/good_transistor_072.png
+./DATA/transistor/train/good/good_transistor_173.png
+./DATA/transistor/train/good/good_transistor_171.png
+./DATA/transistor/train/good/good_transistor_144.png
+./DATA/transistor/train/good/good_transistor_042.png
+./DATA/transistor/train/anomaly/anomaly_transistor_cut_lead_005.png
+./DATA/transistor/train/good/good_transistor_195.png
+./DATA/transistor/train/good/good_transistor (31).png

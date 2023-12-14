@@ -1,0 +1,53 @@
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_flip_015.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_color_011.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_bent_016.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_scratch_005.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_flip_013.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_flip_018.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_scratch_018.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_bent_024.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_flip_012.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_scratch_014.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_flip_021.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_color_009.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_bent_007.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_bent_015.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_color_021.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_color_006.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_color_000.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_color_004.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_color_003.png
+./DATA/metal_nut/train/anomaly/anomaly_metal_nut_scratch_000.png
+./DATA/metal_nut/train/good/good_metal_nut_057.png
+./DATA/metal_nut/train/good/good_metal_nut_172.png
+./DATA/metal_nut/train/good/good_metal_nut_065.png
+./DATA/metal_nut/train/good/good_metal_nut_053.png
+./DATA/metal_nut/train/good/good_metal_nut_157.png
+./DATA/metal_nut/train/good/good_metal_nut_149.png
+./DATA/metal_nut/train/good/good_metal_nut_046.png
+./DATA/metal_nut/train/good/good_metal_nut (14).png
+./DATA/metal_nut/train/good/good_metal_nut_078.png
+./DATA/metal_nut/train/good/good_metal_nut_165.png
+./DATA/metal_nut/train/good/good_metal_nut_161.png
+./DATA/metal_nut/train/good/good_metal_nut_198.png
+./DATA/metal_nut/train/good/good_metal_nut (13).png
+./DATA/metal_nut/train/good/good_metal_nut_022.png
+./DATA/metal_nut/train/good/good_metal_nut_186.png
+./DATA/metal_nut/train/good/good_metal_nut (21).png
+./DATA/metal_nut/train/good/good_metal_nut_074.png
+./DATA/metal_nut/train/good/good_metal_nut (6).png
+./DATA/metal_nut/train/good/good_metal_nut_130.png
+./DATA/metal_nut/train/good/good_metal_nut (15).png
+./DATA/metal_nut/train/good/good_metal_nut_012.png
+./DATA/metal_nut/train/good/good_metal_nut (22).png
+./DATA/metal_nut/train/good/good_metal_nut (18).png
+./DATA/metal_nut/train/good/good_metal_nut (8).png
+./DATA/metal_nut/train/good/good_metal_nut_125.png
+./DATA/metal_nut/train/good/good_metal_nut (20).png
+./DATA/metal_nut/train/good/good_metal_nut (12).png
+./DATA/metal_nut/train/good/good_metal_nut (19).png
+./DATA/metal_nut/train/good/good_metal_nut_175.png
+./DATA/metal_nut/train/good/good_metal_nut (3).png
+./DATA/metal_nut/train/good/good_metal_nut_126.png
+./DATA/metal_nut/train/good/good_metal_nut_128.png
+./DATA/metal_nut/train/good/good_metal_nut_107.png

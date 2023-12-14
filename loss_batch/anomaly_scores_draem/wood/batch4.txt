@@ -1,0 +1,54 @@
+./DATA/wood/train/good/good_wood (16).png
+./DATA/wood/train/good/good_wood (14).png
+./DATA/wood/train/good/good_wood (3).png
+./DATA/wood/train/good/good_wood_021.png
+./DATA/wood/train/good/good_wood_020.png
+./DATA/wood/train/good/good_wood_054.png
+./DATA/wood/train/good/good_wood_092.png
+./DATA/wood/train/good/good_wood (18).png
+./DATA/wood/train/good/good_wood_162.png
+./DATA/wood/train/good/good_wood_176.png
+./DATA/wood/train/good/good_wood_075.png
+./DATA/wood/train/good/good_wood_170.png
+./DATA/wood/train/good/good_wood_007.png
+./DATA/wood/train/good/good_wood_060.png
+./DATA/wood/train/good/good_wood_068.png
+./DATA/wood/train/good/good_wood_055.png
+./DATA/wood/train/good/good_wood_071.png
+./DATA/wood/train/good/good_wood_208.png
+./DATA/wood/train/good/good_wood_076.png
+./DATA/wood/train/good/good_wood_009.png
+./DATA/wood/train/good/good_wood_004.png
+./DATA/wood/train/good/good_wood_006.png
+./DATA/wood/train/good/good_wood_167.png
+./DATA/wood/train/good/good_wood_053.png
+./DATA/wood/train/good/good_wood_011.png
+./DATA/wood/train/good/good_wood_059.png
+./DATA/wood/train/good/good_wood (17).png
+./DATA/wood/train/good/good_wood (5).png
+./DATA/wood/train/good/good_wood_195.png
+./DATA/wood/train/good/good_wood_018.png
+./DATA/wood/train/good/good_wood_235.png
+./DATA/wood/train/good/good_wood_150.png
+./DATA/wood/train/good/good_wood_008.png
+./DATA/wood/train/good/good_wood_099.png
+./DATA/wood/train/good/good_wood_074.png
+./DATA/wood/train/good/good_wood_005.png
+./DATA/wood/train/good/good_wood_146.png
+./DATA/wood/train/good/good_wood (4).png
+./DATA/wood/train/good/good_wood_010.png
+./DATA/wood/train/good/good_wood_104.png
+./DATA/wood/train/good/good_wood_066.png
+./DATA/wood/train/good/good_wood_151.png
+./DATA/wood/train/good/good_wood_137.png
+./DATA/wood/train/good/good_wood_065.png
+./DATA/wood/train/good/good_wood_015.png
+./DATA/wood/train/good/good_wood_174.png
+./DATA/wood/train/good/good_wood_149.png
+./DATA/wood/train/good/good_wood_138.png
+./DATA/wood/train/good/good_wood_012.png
+./DATA/wood/train/good/good_wood_160.png
+./DATA/wood/train/good/good_wood_115.png
+./DATA/wood/train/good/good_wood_013.png
+./DATA/wood/train/good/good_wood_171.png
+./DATA/wood/train/good/good_wood_145.png

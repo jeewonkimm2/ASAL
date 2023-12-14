@@ -1,0 +1,55 @@
+./DATA/tile/train/anomaly/anomaly_tile_crack_014.png
+./DATA/tile/train/anomaly/anomaly_tile_crack_000.png
+./DATA/tile/train/anomaly/anomaly_tile_crack_009.png
+./DATA/tile/train/anomaly/anomaly_tile_crack_003.png
+./DATA/tile/train/anomaly/anomaly_tile_crack_004.png
+./DATA/tile/train/anomaly/anomaly_tile_crack_001.png
+./DATA/tile/train/anomaly/anomaly_tile_crack_008.png
+./DATA/tile/train/anomaly/anomaly_tile_crack_015.png
+./DATA/tile/train/anomaly/anomaly_tile_crack_013.png
+./DATA/tile/train/anomaly/anomaly_tile_crack_011.png
+./DATA/tile/train/good/good_tile_039.png
+./DATA/tile/train/good/good_tile_116.png
+./DATA/tile/train/good/good_tile_152.png
+./DATA/tile/train/good/good_tile_165.png
+./DATA/tile/train/good/good_tile_021.png
+./DATA/tile/train/good/good_tile_045.png
+./DATA/tile/train/good/good_tile_112.png
+./DATA/tile/train/good/good_tile_218.png
+./DATA/tile/train/good/good_tile (20).png
+./DATA/tile/train/good/good_tile (14).png
+./DATA/tile/train/good/good_tile_111.png
+./DATA/tile/train/good/good_tile (13).png
+./DATA/tile/train/good/good_tile_034.png
+./DATA/tile/train/good/good_tile_101.png
+./DATA/tile/train/good/good_tile_164.png
+./DATA/tile/train/good/good_tile_025.png
+./DATA/tile/train/good/good_tile (27).png
+./DATA/tile/train/good/good_tile_017.png
+./DATA/tile/train/good/good_tile_150.png
+./DATA/tile/train/good/good_tile_145.png
+./DATA/tile/train/good/good_tile_015.png
+./DATA/tile/train/good/good_tile_222.png
+./DATA/tile/train/good/good_tile_049.png
+./DATA/tile/train/good/good_tile_038.png
+./DATA/tile/train/good/good_tile_018.png
+./DATA/tile/train/good/good_tile (30).png
+./DATA/tile/train/good/good_tile_076.png
+./DATA/tile/train/good/good_tile (2).png
+./DATA/tile/train/good/good_tile_031.png
+./DATA/tile/train/good/good_tile_032.png
+./DATA/tile/train/good/good_tile_091.png
+./DATA/tile/train/good/good_tile (28).png
+./DATA/tile/train/good/good_tile_037.png
+./DATA/tile/train/good/good_tile_161.png
+./DATA/tile/train/good/good_tile_055.png
+./DATA/tile/train/good/good_tile (11).png
+./DATA/tile/train/good/good_tile_087.png
+./DATA/tile/train/good/good_tile_225.png
+./DATA/tile/train/good/good_tile_004.png
+./DATA/tile/train/good/good_tile_148.png
+./DATA/tile/train/good/good_tile_092.png
+./DATA/tile/train/good/good_tile_143.png
+./DATA/tile/train/good/good_tile_073.png
+./DATA/tile/train/good/good_tile_140.png
+./DATA/tile/train/good/good_tile (12).png

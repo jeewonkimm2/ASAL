@@ -1,0 +1,60 @@
+./DATA/cable/train/good/good_cable_220.png
+./DATA/cable/train/good/good_cable_157.png
+./DATA/cable/train/good/good_cable_096.png
+./DATA/cable/train/good/good_cable (13).png
+./DATA/cable/train/good/good_cable_219.png
+./DATA/cable/train/good/good_cable (24).png
+./DATA/cable/train/good/good_cable_147.png
+./DATA/cable/train/good/good_cable (51).png
+./DATA/cable/train/good/good_cable (28).png
+./DATA/cable/train/good/good_cable (25).png
+./DATA/cable/train/good/good_cable (8).png
+./DATA/cable/train/good/good_cable_063.png
+./DATA/cable/train/good/good_cable_072.png
+./DATA/cable/train/good/good_cable_120.png
+./DATA/cable/train/good/good_cable_019.png
+./DATA/cable/train/good/good_cable_075.png
+./DATA/cable/train/good/good_cable (26).png
+./DATA/cable/train/good/good_cable (22).png
+./DATA/cable/train/good/good_cable_068.png
+./DATA/cable/train/good/good_cable (9).png
+./DATA/cable/train/good/good_cable_025.png
+./DATA/cable/train/good/good_cable_020.png
+./DATA/cable/train/good/good_cable (5).png
+./DATA/cable/train/good/good_cable_061.png
+./DATA/cable/train/good/good_cable_208.png
+./DATA/cable/train/good/good_cable (20).png
+./DATA/cable/train/good/good_cable_041.png
+./DATA/cable/train/good/good_cable_111.png
+./DATA/cable/train/good/good_cable_137.png
+./DATA/cable/train/good/good_cable_214.png
+./DATA/cable/train/good/good_cable_062.png
+./DATA/cable/train/good/good_cable_170.png
+./DATA/cable/train/good/good_cable_223.png
+./DATA/cable/train/good/good_cable_131.png
+./DATA/cable/train/good/good_cable_196.png
+./DATA/cable/train/good/good_cable_174.png
+./DATA/cable/train/good/good_cable_058.png
+./DATA/cable/train/good/good_cable_092.png
+./DATA/cable/train/good/good_cable_189.png
+./DATA/cable/train/good/good_cable_018.png
+./DATA/cable/train/good/good_cable_069.png
+./DATA/cable/train/good/good_cable_026.png
+./DATA/cable/train/good/good_cable (1).png
+./DATA/cable/train/good/good_cable_081.png
+./DATA/cable/train/good/good_cable_011.png
+./DATA/cable/train/good/good_cable_088.png
+./DATA/cable/train/good/good_cable_084.png
+./DATA/cable/train/good/good_cable_162.png
+./DATA/cable/train/good/good_cable_198.png
+./DATA/cable/train/good/good_cable_135.png
+./DATA/cable/train/good/good_cable_142.png
+./DATA/cable/train/good/good_cable_089.png
+./DATA/cable/train/good/good_cable (4).png
+./DATA/cable/train/good/good_cable_156.png
+./DATA/cable/train/good/good_cable_149.png
+./DATA/cable/train/good/good_cable_148.png
+./DATA/cable/train/good/good_cable (42).png
+./DATA/cable/train/good/good_cable_138.png
+./DATA/cable/train/good/good_cable_017.png
+./DATA/cable/train/good/good_cable (11).png

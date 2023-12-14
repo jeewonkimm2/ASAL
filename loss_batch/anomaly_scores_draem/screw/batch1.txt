@@ -1,0 +1,76 @@
+./DATA/screw/train/anomaly/anomaly_screw_scratch_neck_017.png
+./DATA/screw/train/anomaly/anomaly_screw_scratch_head_016.png
+./DATA/screw/train/anomaly/anomaly_screw_thread_top_000.png
+./DATA/screw/train/anomaly/anomaly_screw_scratch_head_017.png
+./DATA/screw/train/anomaly/anomaly_screw_scratch_head_000.png
+./DATA/screw/train/good/good_screw_165.png
+./DATA/screw/train/anomaly/anomaly_screw_manipulated_front_004.png
+./DATA/screw/train/good/good_screw_309.png
+./DATA/screw/train/anomaly/anomaly_screw_thread_side_012.png
+./DATA/screw/train/good/good_screw_112.png
+./DATA/screw/train/anomaly/anomaly_screw_scratch_head_008.png
+./DATA/screw/train/good/good_screw_173.png
+./DATA/screw/train/anomaly/anomaly_screw_scratch_neck_005.png
+./DATA/screw/train/good/good_screw_039.png
+./DATA/screw/train/anomaly/anomaly_screw_thread_top_009.png
+./DATA/screw/train/good/good_screw_116.png
+./DATA/screw/train/anomaly/anomaly_screw_manipulated_front_022.png
+./DATA/screw/train/good/good_screw_267.png
+./DATA/screw/train/good/good_screw_113.png
+./DATA/screw/train/anomaly/anomaly_screw_scratch_neck_018.png
+./DATA/screw/train/good/good_screw_021.png
+./DATA/screw/train/good/good_screw_117.png
+./DATA/screw/train/anomaly/anomaly_screw_manipulated_front_012.png
+./DATA/screw/train/good/good_screw_261.png
+./DATA/screw/train/good/good_screw_013.png
+./DATA/screw/train/anomaly/anomaly_screw_manipulated_front_023.png
+./DATA/screw/train/good/good_screw_211.png
+./DATA/screw/train/anomaly/anomaly_screw_thread_side_005.png
+./DATA/screw/train/good/good_screw_003.png
+./DATA/screw/train/good/good_screw (16).png
+./DATA/screw/train/good/good_screw_302.png
+./DATA/screw/train/anomaly/anomaly_screw_scratch_head_021.png
+./DATA/screw/train/good/good_screw (9).png
+./DATA/screw/train/anomaly/anomaly_screw_scratch_head_005.png
+./DATA/screw/train/good/good_screw_030.png
+./DATA/screw/train/good/good_screw (36).png
+./DATA/screw/train/good/good_screw_006.png
+./DATA/screw/train/good/good_screw_316.png
+./DATA/screw/train/good/good_screw_135.png
+./DATA/screw/train/good/good_screw_266.png
+./DATA/screw/train/good/good_screw (11).png
+./DATA/screw/train/anomaly/anomaly_screw_thread_top_016.png
+./DATA/screw/train/anomaly/anomaly_screw_thread_side_020.png
+./DATA/screw/train/anomaly/anomaly_screw_manipulated_front_021.png
+./DATA/screw/train/good/good_screw_071.png
+./DATA/screw/train/good/good_screw_143.png
+./DATA/screw/train/good/good_screw_305.png
+./DATA/screw/train/anomaly/anomaly_screw_scratch_head_001.png
+./DATA/screw/train/good/good_screw_296.png
+./DATA/screw/train/anomaly/anomaly_screw_manipulated_front_019.png
+./DATA/screw/train/good/good_screw_058.png
+./DATA/screw/train/good/good_screw_011.png
+./DATA/screw/train/good/good_screw_077.png
+./DATA/screw/train/good/good_screw_241.png
+./DATA/screw/train/good/good_screw_035.png
+./DATA/screw/train/good/good_screw_105.png
+./DATA/screw/train/good/good_screw_317.png
+./DATA/screw/train/good/good_screw_053.png
+./DATA/screw/train/good/good_screw (25).png
+./DATA/screw/train/good/good_screw_121.png
+./DATA/screw/train/good/good_screw_228.png
+./DATA/screw/train/good/good_screw_291.png
+./DATA/screw/train/good/good_screw_161.png
+./DATA/screw/train/good/good_screw_024.png
+./DATA/screw/train/good/good_screw_048.png
+./DATA/screw/train/good/good_screw_137.png
+./DATA/screw/train/good/good_screw_012.png
+./DATA/screw/train/anomaly/anomaly_screw_scratch_head_020.png
+./DATA/screw/train/good/good_screw (35).png
+./DATA/screw/train/good/good_screw_204.png
+./DATA/screw/train/anomaly/anomaly_screw_thread_side_022.png
+./DATA/screw/train/good/good_screw_111.png
+./DATA/screw/train/good/good_screw_186.png
+./DATA/screw/train/good/good_screw_128.png
+./DATA/screw/train/anomaly/anomaly_screw_thread_side_013.png
+./DATA/screw/train/good/good_screw_264.png

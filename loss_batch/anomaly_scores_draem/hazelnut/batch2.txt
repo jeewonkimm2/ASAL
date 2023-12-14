@@ -1,0 +1,79 @@
+./DATA/hazelnut/train/good/good_hazelnut_336.png
+./DATA/hazelnut/train/good/good_hazelnut_373.png
+./DATA/hazelnut/train/good/good_hazelnut_216.png
+./DATA/hazelnut/train/good/good_hazelnut_332.png
+./DATA/hazelnut/train/good/good_hazelnut_227.png
+./DATA/hazelnut/train/good/good_hazelnut_153.png
+./DATA/hazelnut/train/good/good_hazelnut_035.png
+./DATA/hazelnut/train/good/good_hazelnut (33).png
+./DATA/hazelnut/train/good/good_hazelnut_076.png
+./DATA/hazelnut/train/good/good_hazelnut_146.png
+./DATA/hazelnut/train/good/good_hazelnut_229.png
+./DATA/hazelnut/train/good/good_hazelnut_158.png
+./DATA/hazelnut/train/good/good_hazelnut_318.png
+./DATA/hazelnut/train/good/good_hazelnut_282.png
+./DATA/hazelnut/train/good/good_hazelnut (12).png
+./DATA/hazelnut/train/good/good_hazelnut_002.png
+./DATA/hazelnut/train/good/good_hazelnut_064.png
+./DATA/hazelnut/train/good/good_hazelnut_378.png
+./DATA/hazelnut/train/good/good_hazelnut_346.png
+./DATA/hazelnut/train/good/good_hazelnut_202.png
+./DATA/hazelnut/train/good/good_hazelnut_163.png
+./DATA/hazelnut/train/good/good_hazelnut (36).png
+./DATA/hazelnut/train/good/good_hazelnut_356.png
+./DATA/hazelnut/train/good/good_hazelnut (15).png
+./DATA/hazelnut/train/good/good_hazelnut_292.png
+./DATA/hazelnut/train/good/good_hazelnut_360.png
+./DATA/hazelnut/train/good/good_hazelnut_306.png
+./DATA/hazelnut/train/good/good_hazelnut_105.png
+./DATA/hazelnut/train/good/good_hazelnut_388.png
+./DATA/hazelnut/train/good/good_hazelnut (3).png
+./DATA/hazelnut/train/good/good_hazelnut_031.png
+./DATA/hazelnut/train/good/good_hazelnut_007.png
+./DATA/hazelnut/train/good/good_hazelnut_042.png
+./DATA/hazelnut/train/good/good_hazelnut_259.png
+./DATA/hazelnut/train/good/good_hazelnut_233.png
+./DATA/hazelnut/train/good/good_hazelnut_099.png
+./DATA/hazelnut/train/good/good_hazelnut_084.png
+./DATA/hazelnut/train/good/good_hazelnut_347.png
+./DATA/hazelnut/train/good/good_hazelnut_149.png
+./DATA/hazelnut/train/good/good_hazelnut_203.png
+./DATA/hazelnut/train/good/good_hazelnut_351.png
+./DATA/hazelnut/train/good/good_hazelnut_268.png
+./DATA/hazelnut/train/good/good_hazelnut_249.png
+./DATA/hazelnut/train/good/good_hazelnut_323.png
+./DATA/hazelnut/train/good/good_hazelnut_258.png
+./DATA/hazelnut/train/good/good_hazelnut_130.png
+./DATA/hazelnut/train/good/good_hazelnut_071.png
+./DATA/hazelnut/train/good/good_hazelnut_263.png
+./DATA/hazelnut/train/good/good_hazelnut_235.png
+./DATA/hazelnut/train/good/good_hazelnut_036.png
+./DATA/hazelnut/train/good/good_hazelnut_038.png
+./DATA/hazelnut/train/good/good_hazelnut_205.png
+./DATA/hazelnut/train/good/good_hazelnut_189.png
+./DATA/hazelnut/train/good/good_hazelnut_297.png
+./DATA/hazelnut/train/good/good_hazelnut (26).png
+./DATA/hazelnut/train/good/good_hazelnut_013.png
+./DATA/hazelnut/train/good/good_hazelnut_034.png
+./DATA/hazelnut/train/good/good_hazelnut_385.png
+./DATA/hazelnut/train/good/good_hazelnut (25).png
+./DATA/hazelnut/train/good/good_hazelnut_167.png
+./DATA/hazelnut/train/good/good_hazelnut_003.png
+./DATA/hazelnut/train/good/good_hazelnut_152.png
+./DATA/hazelnut/train/good/good_hazelnut (9).png
+./DATA/hazelnut/train/good/good_hazelnut_276.png
+./DATA/hazelnut/train/good/good_hazelnut_301.png
+./DATA/hazelnut/train/good/good_hazelnut_359.png
+./DATA/hazelnut/train/good/good_hazelnut_004.png
+./DATA/hazelnut/train/good/good_hazelnut_016.png
+./DATA/hazelnut/train/good/good_hazelnut_338.png
+./DATA/hazelnut/train/good/good_hazelnut_379.png
+./DATA/hazelnut/train/good/good_hazelnut_066.png
+./DATA/hazelnut/train/good/good_hazelnut_015.png
+./DATA/hazelnut/train/good/good_hazelnut_277.png
+./DATA/hazelnut/train/good/good_hazelnut (30).png
+./DATA/hazelnut/train/good/good_hazelnut_324.png
+./DATA/hazelnut/train/good/good_hazelnut_287.png
+./DATA/hazelnut/train/good/good_hazelnut_201.png
+./DATA/hazelnut/train/good/good_hazelnut_367.png
+./DATA/hazelnut/train/good/good_hazelnut (29).png

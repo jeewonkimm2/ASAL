@@ -1,0 +1,61 @@
+./DATA/zipper/train/good/good_zipper (20).png
+./DATA/zipper/train/good/good_zipper_065.png
+./DATA/zipper/train/good/good_zipper_049.png
+./DATA/zipper/train/good/good_zipper (3).png
+./DATA/zipper/train/good/good_zipper_078.png
+./DATA/zipper/train/good/good_zipper (21).png
+./DATA/zipper/train/good/good_zipper_230.png
+./DATA/zipper/train/good/good_zipper_036.png
+./DATA/zipper/train/good/good_zipper_046.png
+./DATA/zipper/train/good/good_zipper_181.png
+./DATA/zipper/train/good/good_zipper_199.png
+./DATA/zipper/train/good/good_zipper (8).png
+./DATA/zipper/train/good/good_zipper (27).png
+./DATA/zipper/train/good/good_zipper_141.png
+./DATA/zipper/train/good/good_zipper_035.png
+./DATA/zipper/train/good/good_zipper_053.png
+./DATA/zipper/train/good/good_zipper_142.png
+./DATA/zipper/train/good/good_zipper_087.png
+./DATA/zipper/train/good/good_zipper_052.png
+./DATA/zipper/train/good/good_zipper_120.png
+./DATA/zipper/train/good/good_zipper_110.png
+./DATA/zipper/train/good/good_zipper_134.png
+./DATA/zipper/train/good/good_zipper_145.png
+./DATA/zipper/train/good/good_zipper_222.png
+./DATA/zipper/train/good/good_zipper_101.png
+./DATA/zipper/train/good/good_zipper_209.png
+./DATA/zipper/train/good/good_zipper_147.png
+./DATA/zipper/train/good/good_zipper_205.png
+./DATA/zipper/train/good/good_zipper_129.png
+./DATA/zipper/train/good/good_zipper_127.png
+./DATA/zipper/train/good/good_zipper_135.png
+./DATA/zipper/train/good/good_zipper_139.png
+./DATA/zipper/train/good/good_zipper_221.png
+./DATA/zipper/train/good/good_zipper_210.png
+./DATA/zipper/train/good/good_zipper_203.png
+./DATA/zipper/train/good/good_zipper_080.png
+./DATA/zipper/train/good/good_zipper_044.png
+./DATA/zipper/train/good/good_zipper_231.png
+./DATA/zipper/train/good/good_zipper_175.png
+./DATA/zipper/train/good/good_zipper_136.png
+./DATA/zipper/train/good/good_zipper (6).png
+./DATA/zipper/train/anomaly/anomaly_zipper_broken_teeth_015.png
+./DATA/zipper/train/good/good_zipper_228.png
+./DATA/zipper/train/good/good_zipper_140.png
+./DATA/zipper/train/good/good_zipper_154.png
+./DATA/zipper/train/good/good_zipper (28).png
+./DATA/zipper/train/good/good_zipper_094.png
+./DATA/zipper/train/good/good_zipper_051.png
+./DATA/zipper/train/good/good_zipper_050.png
+./DATA/zipper/train/good/good_zipper_054.png
+./DATA/zipper/train/good/good_zipper_031.png
+./DATA/zipper/train/good/good_zipper_004.png
+./DATA/zipper/train/good/good_zipper_176.png
+./DATA/zipper/train/good/good_zipper_057.png
+./DATA/zipper/train/good/good_zipper_143.png
+./DATA/zipper/train/good/good_zipper_229.png
+./DATA/zipper/train/good/good_zipper_084.png
+./DATA/zipper/train/good/good_zipper_180.png
+./DATA/zipper/train/good/good_zipper_207.png
+./DATA/zipper/train/good/good_zipper_236.png
+./DATA/zipper/train/good/good_zipper_097.png

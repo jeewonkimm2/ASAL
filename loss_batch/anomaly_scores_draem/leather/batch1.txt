@@ -1,0 +1,58 @@
+./DATA/leather/train/anomaly/anomaly_leather_color_007.png
+./DATA/leather/train/anomaly/anomaly_leather_glue_004.png
+./DATA/leather/train/anomaly/anomaly_leather_cut_014.png
+./DATA/leather/train/anomaly/anomaly_leather_color_001.png
+./DATA/leather/train/anomaly/anomaly_leather_color_013.png
+./DATA/leather/train/anomaly/anomaly_leather_color_014.png
+./DATA/leather/train/anomaly/anomaly_leather_color_011.png
+./DATA/leather/train/anomaly/anomaly_leather_cut_010.png
+./DATA/leather/train/anomaly/anomaly_leather_poke_011.png
+./DATA/leather/train/anomaly/anomaly_leather_color_016.png
+./DATA/leather/train/anomaly/anomaly_leather_poke_010.png
+./DATA/leather/train/anomaly/anomaly_leather_color_018.png
+./DATA/leather/train/anomaly/anomaly_leather_cut_012.png
+./DATA/leather/train/anomaly/anomaly_leather_poke_001.png
+./DATA/leather/train/good/good_leather_134.png
+./DATA/leather/train/good/good_leather_127.png
+./DATA/leather/train/good/good_leather_243.png
+./DATA/leather/train/good/good_leather_158.png
+./DATA/leather/train/good/good_leather_152.png
+./DATA/leather/train/good/good_leather_006.png
+./DATA/leather/train/good/good_leather_128.png
+./DATA/leather/train/good/good_leather_131.png
+./DATA/leather/train/good/good_leather_133.png
+./DATA/leather/train/good/good_leather_112.png
+./DATA/leather/train/good/good_leather (32).png
+./DATA/leather/train/good/good_leather_114.png
+./DATA/leather/train/good/good_leather_123.png
+./DATA/leather/train/good/good_leather_111.png
+./DATA/leather/train/good/good_leather_106.png
+./DATA/leather/train/good/good_leather_105.png
+./DATA/leather/train/good/good_leather_137.png
+./DATA/leather/train/good/good_leather (14).png
+./DATA/leather/train/good/good_leather_082.png
+./DATA/leather/train/good/good_leather_160.png
+./DATA/leather/train/good/good_leather_146.png
+./DATA/leather/train/good/good_leather_113.png
+./DATA/leather/train/good/good_leather_122.png
+./DATA/leather/train/good/good_leather_108.png
+./DATA/leather/train/good/good_leather (26).png
+./DATA/leather/train/good/good_leather_172.png
+./DATA/leather/train/good/good_leather (29).png
+./DATA/leather/train/good/good_leather_145.png
+./DATA/leather/train/good/good_leather_153.png
+./DATA/leather/train/good/good_leather_159.png
+./DATA/leather/train/good/good_leather_129.png
+./DATA/leather/train/good/good_leather_138.png
+./DATA/leather/train/good/good_leather (22).png
+./DATA/leather/train/good/good_leather_151.png
+./DATA/leather/train/good/good_leather_140.png
+./DATA/leather/train/good/good_leather_141.png
+./DATA/leather/train/good/good_leather_117.png
+./DATA/leather/train/good/good_leather (30).png
+./DATA/leather/train/good/good_leather_115.png
+./DATA/leather/train/good/good_leather_183.png
+./DATA/leather/train/good/good_leather (3).png
+./DATA/leather/train/good/good_leather_157.png
+./DATA/leather/train/good/good_leather (27).png
+./DATA/leather/train/good/good_leather_064.png

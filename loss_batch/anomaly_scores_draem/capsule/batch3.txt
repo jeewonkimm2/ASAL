@@ -1,0 +1,55 @@
+./DATA/capsule/train/anomaly/anomaly_capsule_scratch_005.png
+./DATA/capsule/train/good/good_capsule_073.png
+./DATA/capsule/train/good/good_capsule_053.png
+./DATA/capsule/train/good/good_capsule_218.png
+./DATA/capsule/train/good/good_capsule_032.png
+./DATA/capsule/train/good/good_capsule (11).png
+./DATA/capsule/train/good/good_capsule_083.png
+./DATA/capsule/train/good/good_capsule_196.png
+./DATA/capsule/train/good/good_capsule_065.png
+./DATA/capsule/train/good/good_capsule_061.png
+./DATA/capsule/train/good/good_capsule_049.png
+./DATA/capsule/train/anomaly/anomaly_capsule_poke_010.png
+./DATA/capsule/train/good/good_capsule_059.png
+./DATA/capsule/train/good/good_capsule_060.png
+./DATA/capsule/train/good/good_capsule_178.png
+./DATA/capsule/train/good/good_capsule_030.png
+./DATA/capsule/train/good/good_capsule_099.png
+./DATA/capsule/train/good/good_capsule_172.png
+./DATA/capsule/train/good/good_capsule_079.png
+./DATA/capsule/train/good/good_capsule_077.png
+./DATA/capsule/train/good/good_capsule_086.png
+./DATA/capsule/train/good/good_capsule_058.png
+./DATA/capsule/train/good/good_capsule_195.png
+./DATA/capsule/train/good/good_capsule_005.png
+./DATA/capsule/train/good/good_capsule_189.png
+./DATA/capsule/train/good/good_capsule_026.png
+./DATA/capsule/train/good/good_capsule_016.png
+./DATA/capsule/train/good/good_capsule_052.png
+./DATA/capsule/train/good/good_capsule_210.png
+./DATA/capsule/train/good/good_capsule_015.png
+./DATA/capsule/train/good/good_capsule_027.png
+./DATA/capsule/train/good/good_capsule_206.png
+./DATA/capsule/train/good/good_capsule_078.png
+./DATA/capsule/train/good/good_capsule_012.png
+./DATA/capsule/train/good/good_capsule (15).png
+./DATA/capsule/train/good/good_capsule_033.png
+./DATA/capsule/train/good/good_capsule (16).png
+./DATA/capsule/train/good/good_capsule_102.png
+./DATA/capsule/train/good/good_capsule_129.png
+./DATA/capsule/train/anomaly/anomaly_capsule_faulty_imprint_005.png
+./DATA/capsule/train/good/good_capsule_055.png
+./DATA/capsule/train/good/good_capsule (4).png
+./DATA/capsule/train/good/good_capsule_009.png
+./DATA/capsule/train/good/good_capsule_019.png
+./DATA/capsule/train/good/good_capsule_011.png
+./DATA/capsule/train/good/good_capsule_057.png
+./DATA/capsule/train/good/good_capsule_179.png
+./DATA/capsule/train/good/good_capsule_192.png
+./DATA/capsule/train/good/good_capsule_153.png
+./DATA/capsule/train/good/good_capsule_024.png
+./DATA/capsule/train/good/good_capsule_007.png
+./DATA/capsule/train/good/good_capsule_039.png
+./DATA/capsule/train/good/good_capsule_042.png
+./DATA/capsule/train/good/good_capsule_080.png
+./DATA/capsule/train/good/good_capsule_126.png

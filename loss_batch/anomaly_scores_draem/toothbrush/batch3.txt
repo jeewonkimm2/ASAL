@@ -1,0 +1,16 @@
+./DATA/toothbrush/train/good/good_toothbrush_056.png
+./DATA/toothbrush/train/good/good_toothbrush_037.png
+./DATA/toothbrush/train/good/good_toothbrush_028.png
+./DATA/toothbrush/train/good/good_toothbrush_055.png
+./DATA/toothbrush/train/good/good_toothbrush_034.png
+./DATA/toothbrush/train/good/good_toothbrush_002.png
+./DATA/toothbrush/train/good/good_toothbrush_057.png
+./DATA/toothbrush/train/good/good_toothbrush (4).png
+./DATA/toothbrush/train/good/good_toothbrush_059.png
+./DATA/toothbrush/train/good/good_toothbrush_038.png
+./DATA/toothbrush/train/good/good_toothbrush_004.png
+./DATA/toothbrush/train/good/good_toothbrush (7).png
+./DATA/toothbrush/train/good/good_toothbrush_051.png
+./DATA/toothbrush/train/good/good_toothbrush_014.png
+./DATA/toothbrush/train/good/good_toothbrush_053.png
+./DATA/toothbrush/train/good/good_toothbrush_007.png

@@ -1,0 +1,54 @@
+./DATA/grid/train/good/good_grid (4).png
+./DATA/grid/train/good/good_grid (16).png
+./DATA/grid/train/good/good_grid_023.png
+./DATA/grid/train/good/good_grid_091.png
+./DATA/grid/train/good/good_grid_261.png
+./DATA/grid/train/good/good_grid_137.png
+./DATA/grid/train/good/good_grid_012.png
+./DATA/grid/train/good/good_grid_008.png
+./DATA/grid/train/good/good_grid_086.png
+./DATA/grid/train/good/good_grid_148.png
+./DATA/grid/train/good/good_grid_084.png
+./DATA/grid/train/good/good_grid_085.png
+./DATA/grid/train/good/good_grid_182.png
+./DATA/grid/train/good/good_grid_112.png
+./DATA/grid/train/good/good_grid_152.png
+./DATA/grid/train/good/good_grid_116.png
+./DATA/grid/train/good/good_grid_195.png
+./DATA/grid/train/good/good_grid_159.png
+./DATA/grid/train/good/good_grid_236.png
+./DATA/grid/train/good/good_grid_053.png
+./DATA/grid/train/good/good_grid_044.png
+./DATA/grid/train/good/good_grid_054.png
+./DATA/grid/train/good/good_grid_061.png
+./DATA/grid/train/good/good_grid_151.png
+./DATA/grid/train/good/good_grid_144.png
+./DATA/grid/train/good/good_grid_038.png
+./DATA/grid/train/good/good_grid_173.png
+./DATA/grid/train/good/good_grid_165.png
+./DATA/grid/train/good/good_grid_203.png
+./DATA/grid/train/good/good_grid (14).png
+./DATA/grid/train/good/good_grid_056.png
+./DATA/grid/train/good/good_grid_060.png
+./DATA/grid/train/good/good_grid_128.png
+./DATA/grid/train/good/good_grid_007.png
+./DATA/grid/train/good/good_grid_244.png
+./DATA/grid/train/good/good_grid_183.png
+./DATA/grid/train/good/good_grid_256.png
+./DATA/grid/train/good/good_grid_029.png
+./DATA/grid/train/good/good_grid_146.png
+./DATA/grid/train/good/good_grid_177.png
+./DATA/grid/train/good/good_grid_062.png
+./DATA/grid/train/good/good_grid_092.png
+./DATA/grid/train/good/good_grid_160.png
+./DATA/grid/train/good/good_grid_259.png
+./DATA/grid/train/good/good_grid_240.png
+./DATA/grid/train/good/good_grid_227.png
+./DATA/grid/train/good/good_grid (7).png
+./DATA/grid/train/good/good_grid_064.png
+./DATA/grid/train/good/good_grid_142.png
+./DATA/grid/train/good/good_grid_206.png
+./DATA/grid/train/good/good_grid_149.png
+./DATA/grid/train/good/good_grid_065.png
+./DATA/grid/train/good/good_grid_215.png
+./DATA/grid/train/good/good_grid_185.png

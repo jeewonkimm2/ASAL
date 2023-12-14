@@ -1,0 +1,76 @@
+./DATA/screw/train/good/good_screw_227.png
+./DATA/screw/train/good/good_screw_037.png
+./DATA/screw/train/good/good_screw_315.png
+./DATA/screw/train/good/good_screw_133.png
+./DATA/screw/train/good/good_screw_095.png
+./DATA/screw/train/good/good_screw_260.png
+./DATA/screw/train/good/good_screw_120.png
+./DATA/screw/train/good/good_screw_015.png
+./DATA/screw/train/good/good_screw_026.png
+./DATA/screw/train/good/good_screw_119.png
+./DATA/screw/train/good/good_screw_299.png
+./DATA/screw/train/good/good_screw_153.png
+./DATA/screw/train/good/good_screw_193.png
+./DATA/screw/train/good/good_screw_014.png
+./DATA/screw/train/good/good_screw_062.png
+./DATA/screw/train/good/good_screw_046.png
+./DATA/screw/train/good/good_screw_072.png
+./DATA/screw/train/good/good_screw (22).png
+./DATA/screw/train/good/good_screw_063.png
+./DATA/screw/train/good/good_screw (23).png
+./DATA/screw/train/good/good_screw_041.png
+./DATA/screw/train/good/good_screw_033.png
+./DATA/screw/train/good/good_screw_025.png
+./DATA/screw/train/good/good_screw_262.png
+./DATA/screw/train/good/good_screw_191.png
+./DATA/screw/train/good/good_screw (7).png
+./DATA/screw/train/good/good_screw_017.png
+./DATA/screw/train/good/good_screw (30).png
+./DATA/screw/train/good/good_screw_064.png
+./DATA/screw/train/good/good_screw_242.png
+./DATA/screw/train/good/good_screw_087.png
+./DATA/screw/train/good/good_screw_172.png
+./DATA/screw/train/good/good_screw_088.png
+./DATA/screw/train/good/good_screw (13).png
+./DATA/screw/train/good/good_screw_176.png
+./DATA/screw/train/good/good_screw_189.png
+./DATA/screw/train/good/good_screw_144.png
+./DATA/screw/train/good/good_screw_209.png
+./DATA/screw/train/good/good_screw_196.png
+./DATA/screw/train/good/good_screw_145.png
+./DATA/screw/train/good/good_screw_059.png
+./DATA/screw/train/good/good_screw_194.png
+./DATA/screw/train/good/good_screw_247.png
+./DATA/screw/train/good/good_screw_073.png
+./DATA/screw/train/good/good_screw (4).png
+./DATA/screw/train/good/good_screw_080.png
+./DATA/screw/train/good/good_screw_140.png
+./DATA/screw/train/good/good_screw_040.png
+./DATA/screw/train/good/good_screw_232.png
+./DATA/screw/train/good/good_screw_146.png
+./DATA/screw/train/good/good_screw_131.png
+./DATA/screw/train/good/good_screw_152.png
+./DATA/screw/train/good/good_screw_042.png
+./DATA/screw/train/good/good_screw_106.png
+./DATA/screw/train/good/good_screw_020.png
+./DATA/screw/train/good/good_screw_109.png
+./DATA/screw/train/good/good_screw_084.png
+./DATA/screw/train/good/good_screw_139.png
+./DATA/screw/train/good/good_screw_157.png
+./DATA/screw/train/good/good_screw_032.png
+./DATA/screw/train/good/good_screw (24).png
+./DATA/screw/train/good/good_screw (32).png
+./DATA/screw/train/good/good_screw_022.png
+./DATA/screw/train/good/good_screw_078.png
+./DATA/screw/train/good/good_screw_219.png
+./DATA/screw/train/good/good_screw_134.png
+./DATA/screw/train/good/good_screw_314.png
+./DATA/screw/train/good/good_screw_016.png
+./DATA/screw/train/good/good_screw_102.png
+./DATA/screw/train/good/good_screw_056.png
+./DATA/screw/train/good/good_screw_099.png
+./DATA/screw/train/good/good_screw_124.png
+./DATA/screw/train/good/good_screw_147.png
+./DATA/screw/train/good/good_screw_114.png
+./DATA/screw/train/good/good_screw (18).png
+./DATA/screw/train/good/good_screw_235.png

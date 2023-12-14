@@ -1,0 +1,16 @@
+./DATA/toothbrush/train/anomaly/anomaly_toothbrush_defective_021.png
+./DATA/toothbrush/train/anomaly/anomaly_toothbrush_defective_024.png
+./DATA/toothbrush/train/anomaly/anomaly_toothbrush_defective_003.png
+./DATA/toothbrush/train/anomaly/anomaly_toothbrush_defective_007.png
+./DATA/toothbrush/train/anomaly/anomaly_toothbrush_defective_001.png
+./DATA/toothbrush/train/anomaly/anomaly_toothbrush_defective_002.png
+./DATA/toothbrush/train/good/good_toothbrush_041.png
+./DATA/toothbrush/train/good/good_toothbrush_033.png
+./DATA/toothbrush/train/good/good_toothbrush (12).png
+./DATA/toothbrush/train/good/good_toothbrush_027.png
+./DATA/toothbrush/train/good/good_toothbrush_032.png
+./DATA/toothbrush/train/good/good_toothbrush_035.png
+./DATA/toothbrush/train/good/good_toothbrush_024.png
+./DATA/toothbrush/train/anomaly/anomaly_toothbrush_defective_006.png
+./DATA/toothbrush/train/anomaly/anomaly_toothbrush_defective_004.png
+./DATA/toothbrush/train/good/good_toothbrush_047.png

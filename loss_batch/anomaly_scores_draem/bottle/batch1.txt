@@ -1,0 +1,46 @@
+./DATA/bottle/train/anomaly/anomaly_bottle_contamination_003.png
+./DATA/bottle/train/anomaly/anomaly_bottle_contamination_018.png
+./DATA/bottle/train/anomaly/anomaly_bottle_contamination_014.png
+./DATA/bottle/train/good/good_bottle (7).png
+./DATA/bottle/train/good/good_bottle (20).png
+./DATA/bottle/train/good/good_bottle_008.png
+./DATA/bottle/train/good/good_bottle_097.png
+./DATA/bottle/train/good/good_bottle (19).png
+./DATA/bottle/train/good/good_bottle_186.png
+./DATA/bottle/train/good/good_bottle_147.png
+./DATA/bottle/train/good/good_bottle_173.png
+./DATA/bottle/train/good/good_bottle_138.png
+./DATA/bottle/train/good/good_bottle_177.png
+./DATA/bottle/train/good/good_bottle_127.png
+./DATA/bottle/train/good/good_bottle_086.png
+./DATA/bottle/train/good/good_bottle_072.png
+./DATA/bottle/train/good/good_bottle_073.png
+./DATA/bottle/train/good/good_bottle_079.png
+./DATA/bottle/train/good/good_bottle_074.png
+./DATA/bottle/train/good/good_bottle (17).png
+./DATA/bottle/train/good/good_bottle_135.png
+./DATA/bottle/train/good/good_bottle_027.png
+./DATA/bottle/train/good/good_bottle_115.png
+./DATA/bottle/train/good/good_bottle_152.png
+./DATA/bottle/train/good/good_bottle_024.png
+./DATA/bottle/train/good/good_bottle_044.png
+./DATA/bottle/train/good/good_bottle_205.png
+./DATA/bottle/train/good/good_bottle_068.png
+./DATA/bottle/train/good/good_bottle_114.png
+./DATA/bottle/train/good/good_bottle_198.png
+./DATA/bottle/train/good/good_bottle_194.png
+./DATA/bottle/train/good/good_bottle_001.png
+./DATA/bottle/train/good/good_bottle_087.png
+./DATA/bottle/train/good/good_bottle_090.png
+./DATA/bottle/train/good/good_bottle_010.png
+./DATA/bottle/train/good/good_bottle_157.png
+./DATA/bottle/train/good/good_bottle (6).png
+./DATA/bottle/train/good/good_bottle_033.png
+./DATA/bottle/train/good/good_bottle_070.png
+./DATA/bottle/train/good/good_bottle (3).png
+./DATA/bottle/train/good/good_bottle_192.png
+./DATA/bottle/train/good/good_bottle (12).png
+./DATA/bottle/train/good/good_bottle_056.png
+./DATA/bottle/train/good/good_bottle_165.png
+./DATA/bottle/train/good/good_bottle_129.png
+./DATA/bottle/train/good/good_bottle_061.png

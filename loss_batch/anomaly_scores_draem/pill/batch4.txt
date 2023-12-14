@@ -1,0 +1,72 @@
+./DATA/pill/train/good/good_pill_222.png
+./DATA/pill/train/good/good_pill_213.png
+./DATA/pill/train/good/good_pill_122.png
+./DATA/pill/train/good/good_pill_104.png
+./DATA/pill/train/good/good_pill_211.png
+./DATA/pill/train/good/good_pill_115.png
+./DATA/pill/train/good/good_pill_236.png
+./DATA/pill/train/good/good_pill (1).png
+./DATA/pill/train/good/good_pill_239.png
+./DATA/pill/train/anomaly/anomaly_pill_crack_024.png
+./DATA/pill/train/good/good_pill_090.png
+./DATA/pill/train/good/good_pill_038.png
+./DATA/pill/train/good/good_pill_144.png
+./DATA/pill/train/good/good_pill_220.png
+./DATA/pill/train/good/good_pill_212.png
+./DATA/pill/train/good/good_pill_225.png
+./DATA/pill/train/good/good_pill_142.png
+./DATA/pill/train/good/good_pill_079.png
+./DATA/pill/train/good/good_pill_022.png
+./DATA/pill/train/good/good_pill_206.png
+./DATA/pill/train/good/good_pill (5).png
+./DATA/pill/train/good/good_pill_232.png
+./DATA/pill/train/good/good_pill_120.png
+./DATA/pill/train/good/good_pill_020.png
+./DATA/pill/train/good/good_pill_181.png
+./DATA/pill/train/good/good_pill_208.png
+./DATA/pill/train/good/good_pill_265.png
+./DATA/pill/train/good/good_pill_240.png
+./DATA/pill/train/good/good_pill_094.png
+./DATA/pill/train/good/good_pill_207.png
+./DATA/pill/train/good/good_pill_224.png
+./DATA/pill/train/good/good_pill_119.png
+./DATA/pill/train/good/good_pill_006.png
+./DATA/pill/train/good/good_pill_024.png
+./DATA/pill/train/good/good_pill_229.png
+./DATA/pill/train/good/good_pill_076.png
+./DATA/pill/train/good/good_pill_209.png
+./DATA/pill/train/good/good_pill_095.png
+./DATA/pill/train/good/good_pill_106.png
+./DATA/pill/train/good/good_pill_023.png
+./DATA/pill/train/good/good_pill_230.png
+./DATA/pill/train/good/good_pill_016.png
+./DATA/pill/train/good/good_pill_237.png
+./DATA/pill/train/good/good_pill (3).png
+./DATA/pill/train/good/good_pill_202.png
+./DATA/pill/train/good/good_pill_102.png
+./DATA/pill/train/good/good_pill_007.png
+./DATA/pill/train/good/good_pill (23).png
+./DATA/pill/train/good/good_pill_190.png
+./DATA/pill/train/good/good_pill_109.png
+./DATA/pill/train/good/good_pill_037.png
+./DATA/pill/train/good/good_pill_101.png
+./DATA/pill/train/good/good_pill_234.png
+./DATA/pill/train/good/good_pill_204.png
+./DATA/pill/train/good/good_pill_103.png
+./DATA/pill/train/good/good_pill_129.png
+./DATA/pill/train/good/good_pill_227.png
+./DATA/pill/train/good/good_pill_112.png
+./DATA/pill/train/good/good_pill_100.png
+./DATA/pill/train/good/good_pill_059.png
+./DATA/pill/train/good/good_pill_116.png
+./DATA/pill/train/good/good_pill (21).png
+./DATA/pill/train/good/good_pill_019.png
+./DATA/pill/train/good/good_pill_121.png
+./DATA/pill/train/good/good_pill (11).png
+./DATA/pill/train/good/good_pill_134.png
+./DATA/pill/train/good/good_pill_241.png
+./DATA/pill/train/good/good_pill_141.png
+./DATA/pill/train/good/good_pill_263.png
+./DATA/pill/train/good/good_pill_012.png
+./DATA/pill/train/good/good_pill_201.png
+./DATA/pill/train/good/good_pill (8).png
