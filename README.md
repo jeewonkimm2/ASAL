@@ -14,7 +14,7 @@ This study is a method of reflecting the distribution of actual industrial data 
 <table style="border: 0.5px solid gray">
  <tr>
     <td align="center"><a href="https://github.com/jeewonkimm2"><img src="https://avatars.githubusercontent.com/u/108987773?v=4" width="130px;" alt=""></td>
-    <td align="center" style="border-right : 0.5px solid gray"><a href="https://github.com/LBC11"><img src="https://avatars.githubusercontent.com/u/123538321?v=4" width="130px;" alt=""></td>
+    <td align="center" style="border-right : 0.5px solid gray"><a href="https://github.com/bae-sohee"><img src="https://avatars.githubusercontent.com/u/123538321?v=4" width="130px;" alt=""></td>
 
   </tr>
   <tr>
