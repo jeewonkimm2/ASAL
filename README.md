@@ -41,7 +41,7 @@ This study is a method of reflecting the distribution of actual industrial data 
 - Installing all the requirements may take some time. After installation, you can run the codes.
 - Please notice that we used 'PyTorch' and device type as 'GPU'.
 - We utilized 2 GPUs in our implementation. If the number of GPUs differs, please adjust the code accordingly based on the specific situation.
-- [```requirements.txt```][link1] file is required to set up the virtual environment for running the program. This file contains a list of all the libraries needed to run your program and their versions.
+- [```requirements.txt```](https://github.com/jeewonkimm2/ASAL/blob/main/requirements.txt) file is required to set up the virtual environment for running the program. This file contains a list of all the libraries needed to run your program and their versions.
 
     #### In **Anaconda** Environment,
 
@@ -59,6 +59,7 @@ This study is a method of reflecting the distribution of actual industrial data 
 
  ## 3. Dataset
  - [The MVTec anomaly detection dataset (MVTec AD)](https://www.mvtec.com/company/research/datasets/mvtec-ad)
+ - You need to create a folder, `./DATA`
  - Merging the Train and Test sets of the existing data, the combined dataset was then divided into Train and Test sets in a ratio of 0.8:0.2.
 
   ```bash
