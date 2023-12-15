@@ -1,6 +1,6 @@
 # ASAL (Active Score for Active Learning)
 - Active Learning Initialization for Supervised Visual Defect Detection
-- [The 2023 Fall Conference of Korean Institute of Industrial Engineers](https://www.kstudy.com/fbook/KIIE/2023/)
+- [The 2023 Fall Conference of Korean Institute of Industrial Engineers](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11609814)
 - Associated with [Industrial Artificial Intelligence Lab](https://iai.seoultech.ac.kr/index.do)
 
 #### 📍 Project Objective
