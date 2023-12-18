@@ -132,7 +132,7 @@ This study is a method of reflecting the distribution of actual industrial data 
 ## 6. Result
   ![image](https://github.com/jeewonkimm2/ASAL/assets/108987773/2a6de16f-8855-4c83-b56f-4c067d6ae1b1)
 
-  - ASAL(ours) : This is the proposed method in our study that utilizes Anomaly Score for balanced sampling in imbalanced datasets
+  - **ASAL(ours)** : This is the proposed method in our study that utilizes Anomaly Score for balanced sampling in imbalanced datasets
   - Random: Random sampling of 10 samples from the entire Unlabeled Data
   - DRAEM_mixed: Anomaly detection performance when trained on all data, including a mixture of normal and abnormal data
   - DRAEM_normal: Anomaly detection performance when trained only on all normal data
